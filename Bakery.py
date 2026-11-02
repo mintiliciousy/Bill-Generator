@@ -1,7 +1,7 @@
 import sys
 import tkinter as tk
 from tkinter import messagebox, simpledialog, filedialog
-#using tkinter to create a GUI for the bakery order system
+
 def order():
     root = tk.Tk()
     root.withdraw()
